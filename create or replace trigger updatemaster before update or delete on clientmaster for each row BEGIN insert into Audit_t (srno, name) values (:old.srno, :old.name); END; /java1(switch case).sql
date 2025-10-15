@@ -5,7 +5,7 @@ public class databaseconnect {
 public static void main(String[] args) {
 try {
 Class.forName("com.mysql.cj.jdbc.Driver");
-Connection con=DriverManager.getConnection("jdbc:mysql://localhost/collegedemos1","root","Prajakta@2004");
+Connection con=DriverManager.getConnection("jdbc:mysql://localhost/collegedemos1","root","gayatri@2005");
 			Statement stm=con.createStatement();
 			Scanner sc = new Scanner(System.in);
 			int choice;
