@@ -60,7 +60,7 @@ mysql> select * from stud;
 +--------+----------+---------+
 | rollno | name     | address |
 +--------+----------+---------+
-|    101 | prajakta | pune    |
+|    101 | gayatri | pune    |
 +--------+----------+---------+
 1 row in set (0.01 sec)
 
@@ -68,7 +68,7 @@ mysql> select * from stud;
 +--------+----------+---------+
 | rollno | name     | address |
 +--------+----------+---------+
-|    101 | prajakta | pune    |
+|    101 | gayatri | pune    |
 |    102 | pooja    | pune    |
 +--------+----------+---------+
 2 rows in set (0.00 sec)
